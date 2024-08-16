@@ -1,0 +1,12 @@
+body {
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-bottom: 0.5rem;
+    background-color: rgba(231, 207, 230, 0.742);
+  }
+  h1 {
+    color: yellow;
+  }
+  
+  p {
+    color: rgb(255, 0, 0);
+  }
