@@ -3,10 +3,15 @@ body {
     margin-bottom: 0.5rem;
     background-color: rgba(231, 207, 230, 0.742);
   }
-  h1 {
-    color: yellow;
+  ul {
+    color: rgb(0, 68, 255);
   }
-  
+  ol {
+    color: rgb(8, 93, 37);
+  }
   p {
     color: rgb(255, 0, 0);
+  }
+  h1 {
+    color: rgba(4, 185, 226, 0.922);
   }
